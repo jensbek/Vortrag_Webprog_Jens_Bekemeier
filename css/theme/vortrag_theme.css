@@ -10,16 +10,16 @@
  *********************************************/
 body {
   background: #111;
-  background-color: #111; }
+  background-color: #eee8aa; }
 
 .reveal {
   font-family: 'Open Sans', sans-serif;
   font-size: 30px;
   font-weight: normal;
-  color: #eee; }
+  color: #000000; }
 
 ::selection {
-  color: #fff;
+  color: #000000;
   background: #e7ad52;
   text-shadow: none; }
 
@@ -32,7 +32,7 @@ body {
  *********************************************/
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
   margin: 0 0 20px 0;
-  color: #eee;
+  color: #000000;
   font-family: 'Montserrat', Impact, sans-serif;
   font-weight: normal;
   line-height: 1.2;
@@ -185,14 +185,14 @@ body {
  * LINKS
  *********************************************/
 .reveal a {
-  color: #e7ad52;
+  color: #ff8c00;
   text-decoration: none;
   -webkit-transition: color 0.15s ease;
   -moz-transition: color 0.15s ease;
   transition: color 0.15s ease; }
 
 .reveal a:hover {
-  color: #f3d7ac;
+  color: #ff4500;
   text-shadow: none;
   border: none; }
 
